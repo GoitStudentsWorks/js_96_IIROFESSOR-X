@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_js_CodeCrafters/",
+    "build": "vite build --base=/js_96_IIROFESSOR-X/",
     "preview": "vite preview"
   },
   "devDependencies": {
